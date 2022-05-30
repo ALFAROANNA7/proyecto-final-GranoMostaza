@@ -1,0 +1,12 @@
+[
+    {"id": 1, "nombre": "Mueble de maquillaje", "tipo": "Mueble de maquillaje", "cant": 1, "desc": "Mueble de maquillaje, perfecto para maquillaje profesional, con luces", "precio": 12000, "talle": "15 dias hábiles", "img": "./img/1366_2000.jpeg"},
+    {"id": 2, "nombre": "Paleta de maquillaje", "tipo": "Paleta de maquillaje", "cant": 1, "desc": "Paleta de maquillaje", "precio": 1000, "talle": "3 dias hábiles", "img": "./img/caja.jpg"},
+    {"id": 3, "nombre": "Combo N°1", "tipo": "Combo N°1", "cant": 1, "desc": "Combo N°1 - incluye labial oscron y cepillo elvira", "precio": 5000, "talle": "2 horas", "img": "./img/combo1.jpg"},
+    {"id": 4, "nombre": "Combo N°2", "tipo": "Combo N°2", "cant": 1, "desc": "Combo N°2 - incluye delineador cardona y quita-ojeras pimpa", "precio": 3000, "talle": "1:30 Horas", "img": "./img/combo2.jpg"},
+    {"id": 5, "nombre": "Set de brochas", "tipo": "Set de brochas", "cant": 1, "desc": "Set de brochas - del N°6 al N°10", "precio": 9000, "talle": "1 día hábiles", "img": "./img/set.jpg"},
+    {"id": 6, "nombre": "Paleta de maquillaje", "tipo": "Paleta de maquillaje", "cant": 1, "desc": "Paleta de maquillaje", "precio": 1000, "talle": "3 dias hábiles", "img": "./img/caja.jpg"},
+    {"id": 7, "nombre": "Combo N°1", "tipo": "Combo N°1", "cant": 1, "desc": "Combo N°1 - incluye labial oscron y cepillo elvira", "precio": 2000, "talle": "2 dias hábiles", "img": "./img/combo1.jpg"},
+    {"id": 8, "nombre": "Mueble de maquillaje", "tipo": "Mueble de maquillaje", "cant": 1, "desc": "Mueble de maquillaje, perfecto para maquillaje profesional, con luces", "precio": 12000, "talle": "15 dias hábiles", "img": "./img/1366_2000.jpeg"}
+
+
+]
